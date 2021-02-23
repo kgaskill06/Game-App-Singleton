@@ -5,7 +5,7 @@ public class Entity {
 	private String name;
 	
 
-	protected Entity() {
+	private Entity() {
 		
 	}
 	
